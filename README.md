@@ -1,1 +1,3 @@
 # PMI_Challenge
+
+This repository is used for the PMI challenge. As such, only the codes are available. Both notebooks and .py scripts are present. Cleaned_target.py is the cleaning and the timeframe choice for the response variable. Cleaned_explanatory.py is a cleaning step used to remove the bulk of columns with more than 10% NAs and making it easier to manipulate and explore. Finally Merged_dataframe.py is the script used to merge both target and explanatory variables, removing uninformative or redundant features, entires with NAs, model creation and feature extraction, as well as being statistically significant. Both notebook and .py script contain the same information, with the notebook providing the output observed.
